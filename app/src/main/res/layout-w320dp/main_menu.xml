@@ -6,5 +6,5 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="W - 320dp"
-        android:textSize="60sp"/>
+        android:textSize="25sp"/>
 </LinearLayout>
